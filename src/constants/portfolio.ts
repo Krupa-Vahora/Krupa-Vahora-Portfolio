@@ -26,7 +26,7 @@ export const PERSONAL_INFO: PersonalInfo = {
   experienceYears: "5",
   featuresShipped: "30+",
   clientsServed: "US & Global Clients",
-  githubUrl: "https://github.com",
+  githubUrl: "https://github.com/Krupa-Vahora",
   linkedinUrl: "https://linkedin.com",
 };
 
